@@ -9,11 +9,11 @@ The aim of this program is to perform set operations (Union, Union All, Intersec
 4. Insert values into table B.
 5. Display the contents of table A.
 6. Display the contents of table B.
-7. Perform set operations: 
-a. Union: Combine rows from table A and table B, eliminating duplicates. 
-b. Union All: Combine rows from table A and table B, including duplicates. 
-c. Intersect: Find common rows between table A and table B. 
-d. Except: Find rows in table A that do not exist in table B.
+7. Perform set operations: <br/>
+a. Union: Combine rows from table A and table B, eliminating duplicates.<br/> 
+b. Union All: Combine rows from table A and table B, including duplicates. <br/>
+c. Intersect: Find common rows between table A and table B.<br/> 
+d. Except: Find rows in table A that do not exist in table B.<br/>
 8. Display the results of each set operation.
 ## PROGRAM:
 ```
